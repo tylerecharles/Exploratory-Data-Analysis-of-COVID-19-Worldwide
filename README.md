@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-of-COVID-19-Worldwide
+The outbreak of COVID-19 began in Wuhan City, Hubei Province, China, and quickly became a major global crisis, which the World Health Organization declared a global pandemic. In this project, I perform some exploratory data analysis on COVID-19 data scraped from ourworldindata.org in order to see how different parts of the world have been affected by COVID-19.
